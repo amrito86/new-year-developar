@@ -1,0 +1,132 @@
+header{
+    background-image: url('../images/banner/banner1.png');
+    height: 800px;
+    
+}
+
+.call{
+    margin-left: 1000px;
+    padding: 200px 200px 200px 0px;
+    te
+    
+}
+
+.cs{
+    font-size: 45px;
+    width: 300px;
+    
+}
+
+.side{
+    padding-left: 150px;
+}
+.paragraph{
+    color: #444343;
+    width: 400px;
+    
+}
+.button-title{
+    margin-left: 180px;
+    background: #F15B22;
+    border: none;
+    color: #FFFFFF;
+    padding: 15px 25px;
+    margin-top: 20px;
+}
+.picture{
+    max-width: 500px;
+    margin-top: 200px;
+    margin-left: 350px;
+}
+.institute{
+    display: flex;
+}
+.blue{
+    margin-top: 400px;
+    margin-left: 60px;
+}
+.je{
+    color: #151414;
+    width: 30%;
+    font-size: 30px;
+}
+.article{
+    color: #444343;
+    width: 45%;
+
+}
+.mid{
+    text-align: center;
+    margin-top: 120px;
+    font-size: 30px;
+    color: #151414;
+}
+.same{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.section-tv{
+    max-width: 900px;
+    margin: auto;
+}
+.mid-title{
+    font-size: 20px;
+    color: #151414;
+}
+.mid-paragraph{
+    text-align: center;
+    color: #737272;
+}
+.pic{
+    background-image: url('../images/gradient2.png'), url('../images/watch.png');
+    background-repeat: no-repeat;
+    height: 250px;
+    margin-top: 100px;
+
+}
+footer{
+    background-color: #151414;
+    margin-top: 100px;
+}
+.foot{
+    display: flex;
+}
+
+.right{
+    color: #F8F8F8;
+}
+.west{
+    color: #FFFFFF;
+    font-size: 13px;
+}
+.sub{
+    color: #FFFFFF;
+}
+.big{
+    margin-top: 80px;
+    margin-left: 400px;
+    margin-bottom: 100px;
+}
+.weste{
+    color: #FFFFFF;
+    width: 400px;
+    font-size: 13px;
+}
+.photo{
+    margin-right: 15px;
+}
+
+.doll{
+    margin-top: 80px;
+    padding-left: 300px;
+}
+.boult{
+    background: #FFFFFF;
+    color: #F15B22;
+    padding: 10px 15px;
+}
+.small{
+    padding-top: 10px;
+}
+    
